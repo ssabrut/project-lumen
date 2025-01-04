@@ -1,2 +1,2 @@
 # Acknowledgments
-- <a href="https://huggingface.co/liuhaotian/llava-v1.5-7b" target="_blank">LLaVA Multimodal by Haotian Liu</a>
+- <a href="https://huggingface.co/nomic-ai/nomic-embed-text-v1.5" target="_blank">Nomic Embedding by Nomic AI</a>
